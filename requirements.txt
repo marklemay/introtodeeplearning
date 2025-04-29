@@ -1,0 +1,21 @@
+
+# https://github.com/search?q=opencv-python+mitdeeplearning+&type=code
+
+# lab 1.1
+mitdeeplearning~=0.7.5
+matplotlib~=3.10.1
+opencv-python
+
+# lab 1.2
+scipy~=1.15.2
+music21~=9.5.0
+
+
+
+# auto added dependencies
+ipython~=9.2.0
+
+
+torch~=2.7.0+cu128
+numpy~=1.26.4
+tqdm~=4.67.1
