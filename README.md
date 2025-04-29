@@ -1,5 +1,5 @@
 
-version without notbook, for thpse who want IDEs and local training.
+version without notebook, for thpse who want IDEs and local training.
 
 
 [![banner](assets/banner.png)](http://introtodeeplearning.com)
