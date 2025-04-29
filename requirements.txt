@@ -10,12 +10,17 @@ opencv-python
 scipy~=1.15.2
 music21~=9.5.0
 
+# lab 2.1
+torchsummary
+
 
 
 # auto added dependencies
 ipython~=9.2.0
 
 
-torch~=2.7.0+cu128
 numpy~=1.26.4
 tqdm~=4.67.1
+
+# hardware specific
+torch~=2.7.0+cu128
